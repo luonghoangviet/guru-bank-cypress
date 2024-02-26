@@ -16,5 +16,6 @@ module.exports = defineConfig({
       return config;
     },
     specPattern: "**/*.feature",
+    baseUrl: "https://demo.guru99.com/v4/",
   },
 });

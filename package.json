@@ -1,11 +1,9 @@
 {
   "name": "guru-bank-cypress",
   "version": "1.0.0",
-  "description": "Demo tesing guru bank with cypress cucumber POM",
+  "description": "Demo testing guru bank with cypress cucumber POM",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "author": "VietLuong",
   "license": "ISC",
   "dependencies": {
