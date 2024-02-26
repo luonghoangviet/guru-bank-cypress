@@ -1,0 +1,16 @@
+{
+  "name": "guru-bank-cypress",
+  "version": "1.0.0",
+  "description": "Demo tesing guru bank with cypress cucumber POM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VietLuong",
+  "license": "ISC",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.0.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "cypress": "^13.6.6"
+  }
+}
